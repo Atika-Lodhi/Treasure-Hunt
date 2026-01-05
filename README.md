@@ -70,6 +70,7 @@ Here are some screenshots of the game:
 
 <img width="291" height="225"  alt="Image" src="https://github.com/user-attachments/assets/98058bd5-2949-46ed-b391-925f6bccc4af" />
 <img width="291" height="225" alt="Image" src="https://github.com/user-attachments/assets/a6927a26-6c39-4af3-8c15-090be450a852" />
+<img width="291" height="225" alt="Image" src="https://github.com/user-attachments/assets/8296f29e-b2a2-4112-a914-7c3b914d9c3a" />
 <img width="291" height="225" alt="Image" src="https://github.com/user-attachments/assets/be3c1e9a-6b61-401c-a77c-ddcf7246abc5" />
 
 ---
