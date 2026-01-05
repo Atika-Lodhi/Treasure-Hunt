@@ -2,7 +2,7 @@
 
 ## 🎮 About
 **Treasure Hunt** is a 2D adventure RPG game made in **Java**.  
-I created this game using a **tutorial by Ryisnow** as a guide ([Tutorial Playlist](https://youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq&si=dZnSCQKem8zx-CRJ)) and added my **personal touches**, including new items, enemies, and interactive features, including new items, enemies, and interactive features. Players explore a **tile-based world**, fight monsters, collect items, interact with doors and chests, and finally discover the hidden treasure. The game is built using **object-oriented programming principles**, making it a fun and structured project for learning Java.
+I created this game using a **tutorial by Ryisnow** as a guide ([Ryisnow YouTube Tutorial](https://youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq&si=dZnSCQKem8zx-CRJ)) and added my **personal touches**, including new items, enemies, and interactive features, including new items, enemies, and interactive features. Players explore a **tile-based world**, fight monsters, collect items, interact with doors and chests, and finally discover the hidden treasure. The game is built using **object-oriented programming principles**, making it a fun and structured project for learning Java.
 
 ---
 
@@ -68,9 +68,9 @@ Treasure-Hunt/ <br>
 ## 📸 Screenshots
 Here are some screenshots of the game:
 
-![Title Screen](res/screenshots/title_screen.png)
-![Gameplay](res/screenshots/gameplay.png)
-![Dungeon](res/screenshots/dungeon.png)
+<img width="291" height="225"  alt="Image" src="https://github.com/user-attachments/assets/98058bd5-2949-46ed-b391-925f6bccc4af" />
+<img width="291" height="225" alt="Image" src="https://github.com/user-attachments/assets/a6927a26-6c39-4af3-8c15-090be450a852" />
+<img width="291" height="225" alt="Image" src="https://github.com/user-attachments/assets/be3c1e9a-6b61-401c-a77c-ddcf7246abc5" />
 
 ---
 
