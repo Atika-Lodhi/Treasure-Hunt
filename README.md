@@ -8,7 +8,7 @@ I created this game using a **tutorial by Ryisnow** as a guide ([Ryisnow YouTube
 
 ## 🕹️ How to Play
 - **Move Player:** `W` (up), `A` (left), `S` (down), `D` (right)  
-- **Attack:** `ENTER` → Melee attack  
+- **Attack:** `ENTER` → Sword attack  
 - **Fireball Attack:** `F` → Uses mana  
 - **Defense Mode:** `R`  
 - **Open Inventory:** `C`  
@@ -26,7 +26,7 @@ I created this game using a **tutorial by Ryisnow** as a guide ([Ryisnow YouTube
 
 ## 🗺️ Game Features
 - Tile-based world with multiple levels  
-- Combat system with melee and fireball attacks  
+- Combat system with Sword and fireball attacks  
 - Interactive environment: doors, trees, chests, and merchants  
 - Inventory and equipment system  
 - Dungeon exploration with hidden treasures  
