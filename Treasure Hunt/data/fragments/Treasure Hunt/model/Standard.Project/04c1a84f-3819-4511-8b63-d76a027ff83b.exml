@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Treasure Hunt" version="4">
+  <OBJECT>
+    <ID name="Treasure Hunt" mc="Standard.Project" uid="04c1a84f-3819-4511-8b63-d76a027ff83b"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Treasure Hunt]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="treasure hunt" mc="Standard.Package" uid="723845df-4a0f-477c-b250-359d2e02d00a"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Treasure Hunt" mc="Infrastructure.DiagramSet" uid="7438dc31-85cf-4788-be9b-2d23e7e9e4f8"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
